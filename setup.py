@@ -31,7 +31,7 @@ setup(
         "stevedore===5.2.0",
         "nova==29.3.0",
         "unittest2===1.1.0",
-        "setuptools==65.5.1"
+        "setuptools==84.1.0"
     ]
 )
 
