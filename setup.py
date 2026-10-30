@@ -29,7 +29,7 @@ setup(
     install_requires=[
         "oslo.log===5.5.1",
         "stevedore===5.2.0",
-        "nova==29.3.0",
+        "nova==34.0.0",
         "unittest2===1.1.0",
         "setuptools==65.5.1"
     ]
